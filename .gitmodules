@@ -10,3 +10,9 @@
 [submodule "adguard"]
 	path = adguard
 	url = git@github.com:christoph00/container_adguard.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = git@github.com:christoph00/container_nextcloud.git
+[submodule "postgres"]
+	path = postgres
+	url = git@github.com:christoph00/container_postgres.git
