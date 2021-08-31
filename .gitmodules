@@ -16,3 +16,6 @@
 [submodule "postgres"]
 	path = postgres
 	url = git@github.com:christoph00/container_postgres.git
+[submodule "redis"]
+	path = redis
+	url = git@github.com:christoph00/container_redis.git
