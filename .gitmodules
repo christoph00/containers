@@ -1,0 +1,12 @@
+[submodule "caddy"]
+	path = caddy
+	url = git@github.com:christoph00/container_caddy.git
+[submodule "homeassistant"]
+	path = homeassistant
+	url = git@github.com:christoph00/container_homeassistant.git
+[submodule "mqtt"]
+	path = mqtt
+	url = git@github.com:christoph00/container_mqtt.git
+[submodule "adguard"]
+	path = adguard
+	url = git@github.com:christoph00/container_adguard.git
