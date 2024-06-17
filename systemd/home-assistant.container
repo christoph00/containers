@@ -1,0 +1,8 @@
+[Container]
+ContainerName=home-assistant
+Pod=smart-home.pod
+Image=ghcr.io/home-assistant/home-assistant:stable
+Volume=ha-config.volume:/config
+Volume=/run/dbus:/run/dbus:ro
+Volume=/etc/localtime:/etc/localtime:ro
+Ports=8123:8123
