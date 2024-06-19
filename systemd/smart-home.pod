@@ -1,3 +1,0 @@
-[Pod]
-PodName=SmartHome
-Network=smart-home.network
